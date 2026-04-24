@@ -19,22 +19,7 @@
  - **Frontend**: HTML5, CSS3 (Vanilla CSS), JavaScript (Vanilla JS)                                        
  - **Storage**: Browser LocalStorage (별도의 DB 없이 기기에 저장)                                          
  - **Design**: Premium Navy & Gold Theme                                                                   
-                                                                                                           
- ## 🚀 시작하기 (Deployment)                                                                               
-                                                                                                           
- 이 프로젝트는 단일 HTML 파일로 구성되어 있어 배포가 매우 간편합니다.                                      
-                                                                                                           
- ### 1. 로컬에서 실행                                                                                      
- 1. `index.html` 파일을 다운로드합니다.                                                                    
- 2. 브라우저(Chrome, Edge 등)로 파일을 엽니다.                                                             
-                                                                                                           
- ### 2. GitHub Pages 배포 방법                                                                             
- 1. GitHub에 새 저장소(Repository)를 생성합니다.                                                           
- 2. `index.html`과 `README.md` 파일을 업로드합니다.                                                        
- 3. 저장소의 **Settings > Pages** 메뉴로 이동합니다.                                                       
- 4. Build and deployment의 Branch를 `main`으로 설정하고 **Save**를 누릅니다.                               
- 5. 제공되는 URL을 통해 접속합니다.                                                                        
-                                                                                                           
+                                                                                                        
  ## 📝 라이선스                                                                                            
                                                                                                            
  이 프로젝트는 자유롭게 수정 및 배포가 가능합니다.                                                         
